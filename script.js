@@ -1,4 +1,4 @@
-const NAME  = 'Nano'
+const NAME  = 'Huy Cáo'
 
 const calcTime = () => {
 	let	ampm  = "AM",
